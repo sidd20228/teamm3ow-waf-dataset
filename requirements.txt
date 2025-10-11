@@ -1,0 +1,12 @@
+# Requirements for dvwa_crawler.py
+# HTTP requests library
+requests>=2.31.0
+
+# HTML parsing library
+beautifulsoup4>=4.12.0
+
+# Fake data generation
+faker>=19.0.0
+
+# Progress bars
+tqdm>=4.66.0
